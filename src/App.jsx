@@ -2,6 +2,7 @@ import * as React from "react"
 // IMPORT ANY NEEDED COMPONENTS HERE
 import { createDataSet } from "./data/dataset"
 import "./App.css"
+import Header from"./components/Header/Header.jsx"
 
 // don't move this!
 export const appInfo = {
